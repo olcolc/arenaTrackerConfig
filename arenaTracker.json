@@ -1,92 +1,132 @@
 [
-  {
-  "name": "Grindan",
-  "allyCode": "365425358",
-  "discordId": "222052503359848455"
-  },
-  {
-  "name": "Apok",
-  "allyCode": "746923124",
-  "discordId": "418563788149751811"
-  },  
-  {
-  "name": "Jamesy",
-  "allyCode": "663923531",
-  "discordId": "415574362318700565"
-  },  
-  {
-  "name": "Lyce Xirec",
-  "allyCode": "874236684",
-  "discordId": "309423774716002304"
-  },
-  {
-  "name": "CountDudeku",
-  "allyCode": "125265633",
-  "discordId": "338011554865872896"
-  },
-  {
-  "name": "FuRy KuRo",
-  "allyCode": "166574257",
-  "discordId": "415556103678590987"
-  },
-  {
-  "name": "CV Thranx",
-  "allyCode": "851117949",
-  "discordId": "412712868941660160"
-  },
-  {
-  "name": "STK츄",
-  "allyCode": "782366486",
-  "discordId": "404713458831982592"
-  },
-  {
-  "name": "zfour",
-  "allyCode": "886686318",
-  "discordId": "327216000036503564"
-  },
-  {
-  "name": "medicine94",
-  "allyCode": "138158169",
-  "discordId": "699241694176215072"
-  },
-  {
-  "name": "Pariah's Būtthōlē",
-  "allyCode": "449785548",
-  "discordId": "699243433864200283"
-  },
-  {
-  "name": "Šèrénum 4PDA",
-  "allyCode": "847197237",
-  "discordId": "596062779404845093"
-  },
-  {
-  "name": "atdaniell",
-  "allyCode": "779526855",
-  "discordId": "318086215079428096"
-  }
-  {
-  "name": "Reznor",
-  "allycode": "329872134",
-  "discordId": "331779387324366849"
-  },
-  {
-  "name": "Plaz",
-  "allycode": "983738575",
-  "discordId": "410214058126737412"
-  },
-  {
-  "name": "Jedriiejtiowjrjowjejw",
-  "allycode": "153933342",
-  "discordId": "363736570349486082"
-  },
-  {
-  "name": "Cs capitán 13",
-  "allycode": "749734118",
-  "discordId": "431853386758094848"
-  },
-  {
-  "name": "Murthag",
-  "allycode": "726397811",
-  "discordId": "294800499516112896"
-  }
+    {
+        "name": "Grindan",
+        "allyCode": "365425358",
+        "dicordId": "222052503359848455"
+    },
+    {
+        "name": "atdaniell",
+        "allyCode": "779526855",
+        "dicordId": "318086215079428096"
+    },
+    {
+        "name": "Šèrénum 4PDA",
+        "allyCode": "847197237",
+        "dicordId": "596062779404845093"
+    },
+    {
+        "name": "Pariah's Būtthōlē",
+        "allyCode": "449785548",
+        "dicordId": "699243433864200283"
+    },
+    {
+        "name": "medicine94",
+        "allyCode": "138158169",
+        "dicordId": "699241694176215072"
+    },
+    {
+        "name": "zfour",
+        "allyCode": "886686318",
+        "dicordId": "327216000036503564"
+    },
+    {
+        "name": "STK츄",
+        "allyCode": "782366486",
+        "dicordId": "404713458831982592"
+    },
+    {
+        "name": "CV Thranx",
+        "allyCode": "851117949",
+        "dicordId": "412712868941660160"
+    },
+    {
+        "name": "FuRy KuRo",
+        "allyCode": "166574257",
+        "dicordId": "415556103678590987"
+    },
+    {
+        "name": "CountDudeku",
+        "allyCode": "125265633",
+        "dicordId": "338011554865872896"
+    },
+    {
+        "name": "Lyce Xirec",
+        "allyCode": "874236684",
+        "dicordId": "309423774716002304"
+    },
+    {
+        "name": "Jamesy ",
+        "allyCode": "663923531",
+        "dicordId": "415574362318700565"
+    },
+    {
+        "name": "Apok",
+        "allyCode": "746923124",
+        "dicordId": "418563788149751811"
+    },
+    {
+        "name": "Reznor",
+        "allyCode": "329872134",
+        "dicordId": "331779387324366849"
+    },
+    {
+        "name": "Plaz",
+        "allyCode": "983738575",
+        "dicordId": "410214058126737412"
+    },
+    {
+        "name": "Jedriiejtiowjrjowjejw",
+        "allyCode": "153933342",
+        "dicordId": "363736570349486082"
+    },
+    {
+        "name": "Cs capitán 13",
+        "allyCode": "749734118",
+        "dicordId": "431853386758094848"
+    },
+    {
+        "name": "Murthag",
+        "allyCode": "726397811",
+        "dicordId": "294800499516112896"
+    },
+    {
+        "name": "Fizl",
+        "allyCode": "938864897",
+        "dicordId": "354705363204833282"
+    },
+    {
+        "name": "Boothy",
+        "allyCode": "636128292",
+        "dicordId": "363086604023365633"
+    },
+    {
+        "name": "Voodoovince",
+        "allyCode": "754672572",
+        "dicordId": "341307545887178763"
+    },
+    {
+        "name": "Sarevok ",
+        "allyCode": "171744538",
+        "dicordId": "356034058012196865"
+    },
+    {
+        "name": "tarakan",
+        "allyCode": "491666847",
+        "dicordId": "388334614441099264"
+    },
+    {
+        "name": "Druida Verde",
+        "allyCode": "447652468",
+        "dicordId": "349525003127226369"
+    },
+    {
+        "name": "FTLAUDMAN",
+        "allyCode": "461395731",
+        "dicordId": "338682061890256896"
+    },
+    {
+        "name": "Eliyas",
+        "allyCode": "561186334",
+        "dicordId": "361197701653725184"
+    }
 ]
