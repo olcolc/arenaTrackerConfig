@@ -24,6 +24,12 @@
         "discordid": "427531455510347796"
     },
     {
+        "timestamp": "7/12/2020 20:41:57",
+        "name": "Baur",
+        "allycode": "877331132",
+        "discordid": "288908591849799680"
+    },
+    {
         "timestamp": "4/13/2020 16:01:40",
         "name": "BAZE",
         "allycode": "146948648",
@@ -81,6 +87,12 @@
         "timestamp": "4/13/2020 15:58:19",
         "name": "Dark Imperator",
         "allycode": "333676575"
+    },
+    {
+        "timestamp": "7/8/2020 14:39:39",
+        "name": "DARTHH TEBOT",
+        "allycode": "825235668",
+        "discordid": "407315509718286348"
     },
     {
         "timestamp": "4/13/2020 18:07:58",
@@ -158,6 +170,18 @@
         "name": "Haven",
         "allycode": "569629857",
         "discordid": "218169541518295040"
+    },
+    {
+        "timestamp": "7/9/2020 1:12:03",
+        "name": "HolyHandGrenade",
+        "allycode": "656645167",
+        "discordid": "414827324484354048"
+    },
+    {
+        "timestamp": "7/12/2020 5:48:42",
+        "name": "iFirst",
+        "allycode": "849998998",
+        "discordid": "353640786052513802"
     },
     {
         "timestamp": "4/13/2020 15:08:30",
@@ -244,10 +268,22 @@
         "discordid": "435909272350490636"
     },
     {
+        "timestamp": "7/13/2020 2:53:52",
+        "name": "naPAULeon",
+        "allycode": "727643519",
+        "discordid": "304123610765721600"
+    },
+    {
         "timestamp": "5/10/2020 17:22:53",
         "name": "Odebee",
         "allycode": "529918127",
         "discordid": "244556544610533376"
+    },
+    {
+        "timestamp": "7/12/2020 3:52:56",
+        "name": "OpusX",
+        "allycode": "751484668",
+        "discordid": "334749793664368640"
     },
     {
         "timestamp": "4/13/2020 14:57:14",
@@ -361,11 +397,5 @@
         "name": "ゴーテン",
         "allycode": "244272878",
         "discordid": "484577924561764372"
-    },
-    {
-        "timestamp": "7/8/2020 14:39:39",
-        "name": "DARTHH TEBOT",
-        "allycode": "825235668",
-        "discordid": "407315509718286348"
     }
 ]
