@@ -109,6 +109,11 @@
         "discordid": "313371944231763979"
     },
     {
+        "name": "DarthMaron ",
+        "allycode": "989153872",
+        "discordid": "334231722424270848"
+    },
+    {
         "name": "Deell",
         "allycode": "851277337",
         "discordid": "554262285552713740"
@@ -219,9 +224,19 @@
         "discordid": "544235658944839706"
     },
     {
+        "name": "Ladicius Cainam",
+        "allycode": "858651311",
+        "discordid": "266384565965160449"
+    },
+    {
         "name": "Lenders",
         "allycode": "143634967",
         "discordid": "577950175167774731"
+    },
+    {
+        "name": "Levi",
+        "allycode": "165338968",
+        "discordid": "504206741341208586"
     },
     {
         "name": "lgbrandao",
@@ -334,14 +349,19 @@
         "discordid": "356034058012196865"
     },
     {
-        "name": "Витос 4PDA",
-        "allycode": "847197237",
-        "discordid": "418425581286326281"
+        "name": "Shirei Kusagami",
+        "allycode": "158263273",
+        "discordid": "475377362599673897"
     },
     {
         "name": "STK츄",
         "allycode": "782366486",
         "discordid": "404713458831982592"
+    },
+    {
+        "name": "Stringerj4",
+        "allycode": "994597962",
+        "discordid": "352967742040834048"
     },
     {
         "name": "Surinami",
@@ -389,23 +409,13 @@
         "discordid": "327216000036503564"
     },
     {
+        "name": "Витос 4PDA",
+        "allycode": "847197237",
+        "discordid": "418425581286326281"
+    },
+    {
         "name": "ゴーテン",
         "allycode": "244272878",
         "discordid": "484577924561764372"
-    },
-    {
-        "name": "Stringerj4",
-        "allycode": "994597962",
-        "discordid": "352967742040834048"
-    },
-    {
-        "name": "DarthMaron ",
-        "allycode": "989153872",
-        "discordid": "334231722424270848"
-    },
-    {
-        "name": "Shirei Kusagami",
-        "allycode": "158263273",
-        "discordid": "475377362599673897"
     }
 ]
