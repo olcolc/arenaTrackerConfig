@@ -1,5 +1,5 @@
 [
-    {
+    {-
         "name": "Adoniram",
         "allycode": "162816676",
         "discordid": "479142895924805633"
@@ -100,6 +100,11 @@
         "discordid": "412712868941660160"
     },
     {
+        "name": "Daemond Mott",
+        "allycode": "954294653",
+        "discordid": "729754789122146404"
+    },
+    {
         "name": "DAREK",
         "allycode": "279832896",
         "discordid": "445498770063360001"
@@ -107,6 +112,11 @@
     {
         "name": "Dark Imperator",
         "allycode": "333676575"
+    },
+    {
+        "name": "Darth Smurf",
+        "allycode": "884859673",
+        "discordid": "426236853553856531"
     },
     {
         "name": "DARTHH TEBOT",
@@ -137,6 +147,11 @@
         "name": "Dijaei",
         "allycode": "625276848",
         "discordid": "431539330251620352"
+    },
+    {
+        "name": "Dimass0410",
+        "allycode": "365425358",
+        "discordid": "594210306486697994"
     },
     {
         "name": "Dom Elias Figueiroa",
@@ -182,11 +197,6 @@
         "name": "Grinch83",
         "allycode": "621571332",
         "discordid": "407362411545231361"
-    },
-    {
-        "name": "Grindan",
-        "allycode": "365425358",
-        "discordid": "222052503359848455"
     },
     {
         "name": "Guts",
@@ -297,6 +307,11 @@
         "name": "medicine94",
         "allycode": "138158169",
         "discordid": "467434561714913290"
+    },
+    {
+        "name": "Mewes93",
+        "allycode": "158263273",
+        "discordid": "789209264890970163"
     },
     {
         "name": "MeyerGV Beskar Armor",
